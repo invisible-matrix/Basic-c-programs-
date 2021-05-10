@@ -1,2 +1,2 @@
-# Basic-c-programs-
-this repo consist of programs asked in interview
+# Basic-c++-programs-
+This repo consist of programs asked in interview
